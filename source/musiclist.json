@@ -1,0 +1,66 @@
+[
+	{
+		"name":"演员",
+		"singer":"薛之谦",
+		"album":"绅士",
+		"time":"04:21",
+		"link_url":"./source/演员.mp3",
+		"cover":"./source/演员.jpg",
+		"link_lrc":"./source/演员.txt"
+	},
+	{
+		"name":"全世界谁倾听你",
+		"singer":"林宥嘉",
+		"album":"全世界谁倾听你",
+		"time":"04:19",
+		"link_url":"./source/全世界谁倾听你.mp3",
+		"cover":"./source/lyj.jpg",
+		"link_lrc":"./source/全世界谁倾听你.txt"	
+	},
+	{
+		"name":"谁来剪月光",
+		"singer":"陈奕迅",
+		"album":"C'mon in~",
+		"time":"03:32",
+		"link_url":"./source/谁来剪月光.mp3",
+		"cover":"./source/sljyg.jpg",
+		"link_lrc":"./source/谁来剪月光.txt"
+	},
+	{
+		"name":"北京东路的日子",
+		"singer":"群星",
+		"album":"北京东路的日子",
+		"time":"04:40",
+		"link_url":"./source/北京东路的日子.mp3",
+		"cover":"./source/bjdldrz.jpg",
+		"link_lrc":"./source/北京东路的日子.txt"
+	},
+	{
+		"name":"在这个世界相遇",
+		"singer":"陈奕迅",
+		"album":"在这个世界相遇",
+		"time":"05:09",
+		"link_url":"./source/在这个世界相遇.mp3",
+		"cover":"./source/zzgsjxy.jpg",
+		"link_lrc":"./source/在这个世界相遇.txt"
+	},
+	{
+		"name":"I Want My Tears Back",
+		"singer":"nightwish",
+		"album":"Imaginaerum",
+		"time":"05:07",
+		"link_url":"./source/I Want My Tears Back.mp3",
+		"cover":"./source/iwmtb.jpg",
+		"link_lrc":"./source/I Want My Tears Back.txt"	
+	},
+	{
+		"name":"The Dawn",
+		"singer":"Dreamtable",
+		"album":"Beyond Reality",
+		"time":"04:06",
+		"link_url":"./source/The Dawn.mp3",
+		"cover":"./source/dawn.jpg",
+		"link_lrc":"./source/The Dawn.txt"
+	}
+
+]
